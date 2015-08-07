@@ -19,7 +19,7 @@ This process is usually called **_mining_** in the crypto-currency lingo.
 
 #### CPU MINING
 
-If you are on a [private network](../geth) (and if you just want to test the technology for free, you should) then any normal computer with a normal CPU will be able to run the network and earn test ether (ether that is only redeemable on the test network where it was generated) through mining. This is a the best choice for small scale network or testing privately, as it's less resource intensive. On the real (or live test) network a normal desktop (or laptop) computer might take a very long time to succesfully mine a block and receive ether.
+If you are on a [private network](../geth) (and if you just want to test the technology for free, you should) then any normal computer with a normal CPU will be able to run the network and earn test ether (ether that is only redeemable on the test network where it was generated) through mining. This is a the best choice for small scale network or testing privately, as it's less resource intensive. On the real (or live test) network a normal desktop (or laptop) computer might take a very long time to successfully mine a block and receive ether.
 
 Before you do any mining, you need to set which address will receive your earnings (called "etherbase"). You only need to this once. Here's how to set your etherbase and then start mining:
 
@@ -87,7 +87,7 @@ Both setups are explain in further detail in the [Frontier reference](http://gui
 
 ![bitcoin and ethereum](images/bitcoin-and-ethereum-sitting-on-a-tree@2x.png)
 
-Ethereum would never be possible without bitcoin—both the technology and the currency—and we see ourselves not as a competiting currency but as complementary within the digital ecosystem. Ether is to be treated as "crypto-fuel", a token whose purpose is to pay for computation, and is not intended to be used as or considered a currency, asset, share or anything else.
+Ethereum would never be possible without bitcoin—both the technology and the currency—and we see ourselves not as a competing currency but as complementary within the digital ecosystem. Ether is to be treated as "crypto-fuel", a token whose purpose is to pay for computation, and is not intended to be used as or considered a currency, asset, share or anything else.
 
 There are many ways in which you can use Bitcoins within the Ethereum ecosystem:
 
@@ -132,7 +132,7 @@ Ether sent to your account should show up almost immediately, transactions being
 
 ## Sending your first transaction
 
-**ATTENTION: Ethereum addresses don't have, yet, built-in checks on them. That means that if you mistype an address, your ether will be lost forever, without a secondary confirmation window. If you are moving a significang amount, start with smaller quantities that you can afford to lose, until you feel confortable enough.**
+**ATTENTION: Ethereum addresses don't have, yet, built-in checks on them. That means that if you mistype an address, your ether will be lost forever, without a secondary confirmation window. If you are moving a significant amount, start with smaller quantities that you can afford to lose, until you feel comfortable enough.**
 
 There are two types of accounts in Ethereum: *normal accounts*, holding ether that can only be moved with a private key and *contracts*, which hold ether only controlled by their own internal code. In this section we focus on the former. The remainder of this guide will be dedicated to the latter.
 
